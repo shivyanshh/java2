@@ -3,7 +3,7 @@ class Human {
     private int age;
 
     public Human(){
-        System.out.println("in constructor");
+        System.out.println("in constructor");//constructor doesnt return anything
         age=12;
         name="sasuke";
 
