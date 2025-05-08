@@ -1,3 +1,4 @@
+package single_topics;
 class Human {
     private String name;
     private int age;

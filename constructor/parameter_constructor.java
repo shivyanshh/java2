@@ -1,3 +1,4 @@
+package constructor;
 class human{
     public human(){
         int age = 12;

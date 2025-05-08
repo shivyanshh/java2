@@ -1,3 +1,4 @@
+package inheritance;
 public class this_super {
     public static void main(String[] args) {
         B obj = new B(9);

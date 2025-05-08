@@ -1,3 +1,4 @@
+package single_topics;
 public class AnonymousObject {
     public static void main(String[] args){
         new demo().show();  // new way to create object known as anonymous

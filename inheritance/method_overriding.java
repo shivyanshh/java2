@@ -1,3 +1,4 @@
+package inheritance;
 public class method_overriding {
     public static void main(String[] args){
         advcalc obj = new advcalc();
@@ -12,7 +13,7 @@ class calc{
     }
 }
 class advcalc extends calc{
-    public int add(int n1,int n2){
+    public int add(int n1,int n2){    //this method is overriding the method in the other class with same name and parameters
         return n1+n2+1;
     }
 }

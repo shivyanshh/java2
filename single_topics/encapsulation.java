@@ -1,3 +1,4 @@
+package single_topics;
 class human{
      private  int age;//=18;
      private  String name ;//="shivyansh";

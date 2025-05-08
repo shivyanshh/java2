@@ -1,3 +1,4 @@
+package inheritance;
 public class inheritance_un {
     public static void main(String[] args) {
         int res=new idk().add(2, 5);
