@@ -1,3 +1,4 @@
+package constructor;
 class Human {
     private String name;
     private int age;

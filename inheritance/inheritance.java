@@ -1,3 +1,4 @@
+package inheritance;
 public class inheritance {
     public static void main(String[] args){
     int res=new Calc().add(9,1);

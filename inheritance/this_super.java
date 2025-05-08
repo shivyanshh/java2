@@ -22,7 +22,7 @@ class B extends A{
         System.out.println("in B");
     }
     public B(int n){
-        this();
+        this();                                      //this() runs the default constructor which is B()
         System.out.println("in B int");
     }
 }
