@@ -6,6 +6,8 @@ public class inheritance_un {
         System.out.println(res2);
         int res3=new idk().multiply(2, 8);
         System.out.println(res3);
+        double res4= new VeryAdvCalc().power(4, 2);
+        System.out.println(res4);
     }
 }
 
