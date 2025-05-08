@@ -1,7 +1,7 @@
 public class AnonymousObject {
     public static void main(String[] args){
         new demo().show();  // new way to create object known as anonymous
-        new demo().show();
+        new demo().show();  //they can be used once
     }
 
 }
