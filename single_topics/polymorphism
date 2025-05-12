@@ -1,0 +1,17 @@
+polymorphism (many behaviour)
+
+
+2 types of polymorphism---->
+1.compile time 
+2.run time
+
+
+1.compile time--->when behaviour is decided at compile time it is known as compile time polymorphism
+basically which method will be executed at compile time with same name 
+
+eg. Overloading methods
+same method in same class
+
+2.run time---> when behaviour is decided at run time
+eg. MethodOverriding
+when u have same method in two classes extended
